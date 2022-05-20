@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @snehalghodekar10
+- 🌱 I’m currently learning Data Science.
+- 📫 How to reach me https://www.linkedin.com/in/snehal-ghodekar-119904136/
